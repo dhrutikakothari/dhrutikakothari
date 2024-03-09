@@ -1,7 +1,7 @@
 ![logo](https://github.com/dhrutikakothari/dhrutikakothari/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Dhrutika Kothari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&rlz=1C1RXQR_enIN1070IN1070&oq=&gs_lcrp=EgZjaHJvbWUqCQgDECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyDwgCEC4YJxjHARjqAhjRAzIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkyNTE1ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#vhid=NUntO8FQoc-57M&vssid=l">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrutikakothari&label=Profile%20views&color=0e75b6&style=flat" alt="dhrutikakothari" /> </p>
 
