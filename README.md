@@ -1,7 +1,7 @@
 ![logo](https://github.com/dhrutikakothari/dhrutikakothari/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Dhrutika Kothari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://iconscout.com/lottie-animation/female-web-developer-4563721](https://iconscout.com/lottie-animation/female-programmer-5236354)">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrutikakothari&label=Profile%20views&color=0e75b6&style=flat" alt="dhrutikakothari" /> </p>
 
